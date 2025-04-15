@@ -27,5 +27,9 @@ class A {
     public function MA2(){
         echo "Metodo - MA2";
     }
+
+    public function MA3(){
+        echo "Alteração a classe A partir do clone";
+    }   
 }
 
